@@ -1,4 +1,4 @@
-# Exome analysis of white Caucasian participants of the UK Biobank with age-related hearing impairment
+# Exome analysis of white European participants of the UK Biobank with age-related hearing impairment
 
 This repository contains notebooks and scripts for reproducing analyses and figures from the paper Rare variant association analysis of UK Biobank exome sequence data reveals new age-related hearing impairment genes, 2022.
 
