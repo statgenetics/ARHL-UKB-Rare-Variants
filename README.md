@@ -1,3 +1,8 @@
+
+
+[![DOI](https://zenodo.org/badge/488292104.svg)](https://zenodo.org/badge/latestdoi/488292104)
+
+
 # Analysis of age-related hearing impairment in white European participants of the UK Biobank
 
 This repository contains notebooks and scripts for reproducing analyses and figures from the paper Rare variant association analysis of UK Biobank exome sequence data reveals new age-related hearing impairment genes, 2022.
